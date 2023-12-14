@@ -1,2 +1,2 @@
-# Hemispheres
-![](Hemispheres.png)![](Hemispheres.gif)
+# MasterAndEmissaryHemispheres
+![](MasterAndEmissaryHemispheres.png)![](MasterAndEmissaryHemispheres.gif)
